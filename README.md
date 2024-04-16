@@ -6,7 +6,7 @@
 
  - [Vulnerability Management Home Lab](https://github.com/iamprinceefe/Vulnerability-Management)
  - [TryHackme Completed Rooms/Labs](https://tryhackme.com/p/iamprinceefe)
-- [Intern Career Internship Tasks(https://drive.google.com/drive/u/3/mobile/folders/1-LXefDXPZ5IF-Efb85CtHzOMYshgSC2d)
+- [Intern-Career Internship Tasks](https://drive.google.com/drive/u/3/mobile/folders/1-LXefDXPZ5IF-Efb85CtHzOMYshgSC2d)
 - [Cybersecurity Awareness Month Presentation (Harnessing the Power of Mobile Security for Business)](https://github.com/iamprinceefe/LABURL)
 
 
