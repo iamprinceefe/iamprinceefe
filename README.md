@@ -3,7 +3,7 @@
  <h2>👨‍💻 Cybersecurity Projects:</h2>
  
 
- - [Vulnerability Management Home Lab](https://github.com/iamprinceefe/LABURL)
+ - [Vulnerability Management Home Lab](https://github.com/iamprinceefe/Vulnerability-Management)
  - [TryHackme Completed Rooms/Labs](https://github.com/iamprinceefe/https://tryhackme.com/p/iamprinceefe)
 - [Social Engineering/Phishing Tasks](https://github.com/iamprinceefe/LABURL)
 - [Cybersecurity Awareness Month Presentation (Harnessing the Power of Mobile Security for Business)](https://github.com/iamprinceefe/LABURL)
