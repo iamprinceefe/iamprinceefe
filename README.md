@@ -4,7 +4,7 @@
  <h2>👨‍💻 Cybersecurity Projects:</h2>
  
 
-- [Vulnerability Management Lab (Nessus)](LABURL)
+- [Vulnerability Management Lab (Nessus)](https://github.com/iamprinceefe/Vulnerability-Management/blob/main/README.md)
  - [Network Enumeration with enum4linux: (Discovering Windows and Samba))](https://github.com/iamprinceefe/Network-Enumeration-with-enum4linux-Discovering-Windows-and-Samba-/blob/main/README.md)
  - [TryHackme Completed Rooms/Labs](https://tryhackme.com/p/iamprinceefe)
 - [Intern-Career Internship Tasks](https://drive.google.com/drive/u/3/mobile/folders/1-LXefDXPZ5IF-Efb85CtHzOMYshgSC2d)
