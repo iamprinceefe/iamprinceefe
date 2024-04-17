@@ -4,9 +4,9 @@
  <h2>👨‍💻 Cybersecurity Projects:</h2>
  
 
- - [Vulnerability Management Home Lab (Nessus)](https://github.com/iamprinceefe/Vulnerability-Management)
+- [Vulnerability Management (Nessus)](LABURL)
+ - [Network Enumeration with enum4linux: (Discovering Windows and Samba))](https://github.com/iamprinceefe/Vulnerability-Management)
  - [TryHackme Completed Rooms/Labs](https://tryhackme.com/p/iamprinceefe)
- - [Network Enumeration with enum4linux: (Discovering Windows and Samba Systems)](https://github.com/iamprinceefe/https://github.com/iamprinceefe/Vulnerability-Management/blob/main/README.md)
 - [Intern-Career Internship Tasks](https://drive.google.com/drive/u/3/mobile/folders/1-LXefDXPZ5IF-Efb85CtHzOMYshgSC2d)
 - [Cybersecurity Awareness Month Presentation (Harnessing the Power of Mobile Security for Business)](https://docs.google.com/file/d/1R-biEjjul1Z_pqc1DE_WSFvxT9rGDVC9/edit?usp=docslist_api&filetype=msword)
 
