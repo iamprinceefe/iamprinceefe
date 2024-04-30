@@ -3,7 +3,7 @@
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
  
-- [Vulnerability Management Lab (Blue Team Nessus Challenge)](LABurl)
+- [Vulnerability Management Lab (Nessus Reporting)](https://github.com/iamprinceefe/Vulnerability-Management-Blueteam-Nessus-/blob/main/README.md)
 - [Vulnerability Management Lab (Nessus)](https://github.com/iamprinceefe/Vulnerability-Management/blob/main/README.md)
 - [AIG Cybersecurity Task (Responding to zero-day vulnerability)](https://github.com/iamprinceefe/AIG-Cybersecurity-Task/blob/main/README.md)
 - [Vulnerability Management Lab (Metasploit 2)](https://github.com/iamprinceefe/Vulnerability-Management-Lab-Metasploit-/blob/main/README.md)
