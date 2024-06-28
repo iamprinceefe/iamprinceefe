@@ -5,7 +5,7 @@
 
 - [Snyk Open Source (Application Security)](https://github.com/iamprinceefe/LABURL)
 - [Patch Management (Microsoft Endpoint Manager)](https://github.com/iamprinceefe/LABURL)
-- [OWASP ZAP Lab (Web Application Security)](https://github.com/iamprinceefe/LABURL)
+- [Web Application Security (OWASP ZAP and OWASP Juice Shop)](https://github.com/iamprinceefe/OWwaspZAPLab/tree/main)
 - [Vulnerability Management Lab (Nessus Reporting)](https://github.com/iamprinceefe/Vulnerability-Management-Blueteam-Nessus-/blob/main/README.md)
 - [Vulnerability Management Lab (Nessus)](https://github.com/iamprinceefe/Vulnerability-Management/blob/main/README.md)
 - [AIG Cybersecurity Task (Responding to zero-day vulnerability)](https://github.com/iamprinceefe/AIG-Cybersecurity-Task/blob/main/README.md)
