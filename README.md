@@ -3,7 +3,7 @@
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Snyk Open Source (Application Security)](https://github.com/iamprinceefe/LABURL)
+- [THM Snyk Code (Application Security)](https://github.com/iamprinceefe/LABURL)
 - [Patch Management (Microsoft Endpoint Manager)](https://github.com/iamprinceefe/Patch-Management-Microsoft-Endpoint-Manager/tree/main)
 - [Web Application Security (OWASP ZAP and OWASP Juice Shop)](https://github.com/iamprinceefe/OWwaspZAPLab/tree/main)
 - [Vulnerability Management Lab (Nessus Reporting)](https://github.com/iamprinceefe/Vulnerability-Management-Blueteam-Nessus-/blob/main/README.md)
