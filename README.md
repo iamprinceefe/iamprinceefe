@@ -3,6 +3,7 @@
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Vulnerability Management Lab (Qualys)](https://github.com/iamprinceefe/LABURL)
 - [THM Snyk Code (Application Security)](https://github.com/iamprinceefe/Snyk-Code-Application-Security-/tree/main)
 - [Patch Management (Microsoft Endpoint Manager)](https://github.com/iamprinceefe/Patch-Management-Microsoft-Endpoint-Manager/tree/main)
 - [Web Application Security (OWASP ZAP and OWASP Juice Shop)](https://github.com/iamprinceefe/OWwaspZAPLab/tree/main)
