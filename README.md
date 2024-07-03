@@ -10,7 +10,7 @@
 - [Vulnerability Management Lab (Nessus Reporting)](https://github.com/iamprinceefe/Vulnerability-Management-Blueteam-Nessus-/blob/main/README.md)
 - [Vulnerability Management Lab (Nessus)](https://github.com/iamprinceefe/Vulnerability-Management/blob/main/README.md)
 - [AIG Cybersecurity Task (Responding to zero-day vulnerability)](https://github.com/iamprinceefe/AIG-Cybersecurity-Task/blob/main/README.md)
-- [Vulnerability Management Lab (Metasploit 2)](https://github.com/iamprinceefe/Vulnerability-Management-Lab-Metasploit-/blob/main/README.md)
+- [Vulnerability Management Lab (Nmap)](https://github.com/iamprinceefe/Vulnerability-Management-Lab-Metasploit-/blob/main/README.md)
  - [Network Enumeration with enum4linux: (Discovering Windows and Samba))](https://github.com/iamprinceefe/Network-Enumeration-with-enum4linux-Discovering-Windows-and-Samba-/blob/main/README.md)
  - [TryHackme Completed Rooms/Labs](https://tryhackme.com/p/iamprinceefe)
 - [Intern-Career Internship Tasks](https://drive.google.com/drive/u/3/mobile/folders/1-LXefDXPZ5IF-Efb85CtHzOMYshgSC2d)
