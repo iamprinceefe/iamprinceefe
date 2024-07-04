@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Prince! ❤️ <br/><a
+<h1>❤️ Hi there, I'm Prince!  <br/><a
 
 
  <h2>👨‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
