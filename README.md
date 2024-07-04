@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Prince! ❤️ <br/><a
 
 
- <h2>👨‍💻 Cybersecurity Projects:</h2>
+ <h2>👨‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
 
-- [Vulnerability Management Lab (Greenbone OpenVAS)](https://github.com/iamprinceefe/LABURL)
+- [Vulnerability Management Lab (Greenbone OpenVAS)](https://github.com/iamprinceefe/Greenbone-OpenVAS/tree/main)
 - [Vulnerability Management Lab (Qualys)](https://github.com/iamprinceefe/Qualys-Vulnerability-Mangement/tree/main)
 - [THM Snyk Code (Application Security)](https://github.com/iamprinceefe/Snyk-Code-Application-Security-/tree/main)
 - [Patch Management (Microsoft Endpoint Manager)](https://github.com/iamprinceefe/Patch-Management-Microsoft-Endpoint-Manager/tree/main)
