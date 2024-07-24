@@ -3,7 +3,7 @@
 
  <h2>👨‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
 
-- [Nmap Script (Automated Scan)](LABURL)
+- [Nmap Script (Automated Scan)](https://github.com/iamprinceefe/nmap-scan-scripts)
 - [Vulnerability Management Lab (Greenbone OpenVAS)](https://github.com/iamprinceefe/Greenbone-OpenVAS/tree/main)
 - [Vulnerability Management Lab (Qualys)](https://github.com/iamprinceefe/Qualys-Vulnerability-Mangement/tree/main)
 - [THM Snyk Code (Application Security)](https://github.com/iamprinceefe/Snyk-Code-Application-Security-/tree/main)
