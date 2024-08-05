@@ -8,7 +8,7 @@
 - [Vulnerability Management Lab (Greenbone OpenVAS)](https://github.com/iamprinceefe/Greenbone-OpenVAS/tree/main)
 - [Vulnerability Management Lab (Qualys)](https://github.com/iamprinceefe/Qualys-Vulnerability-Mangement/tree/main)
 - [Exploiting Vulnerabilities: (A Comprehensive Approach with Nmap, Nessus, and Metasploit )](https://github.com/iamprinceefe/Exploiting-Vulnerabilities/blob/main/README.md)
-- [THM Snyk Code (Application Security)](https://github.com/iamprinceefe/Snyk-Code-Application-Security-/tree/main)
+- [Embedding Security in Development ( Snyk Code for Application Security)](https://github.com/iamprinceefe/Snyk-Code-Application-Security-/tree/main)
 - [Patch Management (Microsoft Endpoint Manager)](https://github.com/iamprinceefe/Patch-Management-Microsoft-Endpoint-Manager/tree/main)
 - [Web Application Security (OWASP ZAP and OWASP Juice Shop)](https://github.com/iamprinceefe/OWwaspZAPLab/tree/main)
 - [Vulnerability Management Lab (Nessus Reporting)](https://github.com/iamprinceefe/Vulnerability-Management-Blueteam-Nessus-/blob/main/README.md)
