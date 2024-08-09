@@ -3,6 +3,7 @@
 
  <h2>👨‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
 
+- [Phishing Attack Simulation (With Gophish)](https://github.com/iamprinceefe/Phishing-Attack-Simulation)
 - [Python (TCP Socket Connection)](https://github.com/iamprinceefe/python-TCP-socket)
 - [Nmap Python & Bash Script (Automated Scan)](https://github.com/iamprinceefe/nmap-scan-scripts)
 - [Vulnerability Management Lab (Greenbone OpenVAS)](https://github.com/iamprinceefe/Greenbone-OpenVAS/tree/main)
