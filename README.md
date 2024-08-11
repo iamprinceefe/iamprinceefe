@@ -27,6 +27,7 @@
 - [Certified Appsec Practitioner (CAP)](https://drive.google.com/file/d/1i1BokEXr6PW4pxWh5vPh7bQOeBMubzSl/view)
 - [Microsoft SC-900 Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/0f0f1f2d-d110-4fec-9293-dc5c8701a603/public_url)
 - [Microsoft AZ-900 Certified: Azure Fundamentals](https://credly.com/badges/ebeb7c04-db3c-4161-8906-345fc959e70c/twitter)
+- [CompTIA Security + 701 Certified (Processing)](LABURL)
 
 
 
