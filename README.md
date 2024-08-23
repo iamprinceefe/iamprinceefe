@@ -1,8 +1,34 @@
 <h1>❤️ Hi there, I'm Prince!  <br/><a
+ <h2>👨🏾‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
+<a href="https://www.linkedin.com/in/prince-oruma-a0a724277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<h2>💻 Tools</h2>
 
 
- <h2>👨‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-ADD8E6?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-F7A800?&style=for-the-badge&logo=burp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-D00000?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C9F?&style=for-the-badge&logo=kali&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6600?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
 
+
+</div>
+
+
+<h2>🖥 Projects</h2>
 
 - [Active Directory Domain Setup](https://github.com/iamprinceefe/Active-Directory-Domain-Setup/blob/main/README.md)
 - [Elastic SIEM Lab: (Security Information and Event Management with Elastic Stack) ](https://github.com/iamprinceefe/Elastic-SIEM-LAB/blob/main/README.md)
@@ -25,12 +51,20 @@
 - [Cybersecurity Awareness Month Presentation (Harnessing the Power of Mobile Security for Business)](https://docs.google.com/file/d/1R-biEjjul1Z_pqc1DE_WSFvxT9rGDVC9/edit?usp=docslist_api&filetype=msword)
 
 
-<h2>📄 Certifications</h2>
 
-- [Certified Appsec Practitioner (CAP)](https://drive.google.com/file/d/1i1BokEXr6PW4pxWh5vPh7bQOeBMubzSl/view)
-- [Microsoft SC-900 Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/0f0f1f2d-d110-4fec-9293-dc5c8701a603/public_url)
-- [Microsoft AZ-900 Certified: Azure Fundamentals](https://credly.com/badges/ebeb7c04-db3c-4161-8906-345fc959e70c/twitter)
-- [CompTIA Security + 701 Certified (Processing)](LABURL)
+
+
+<h2> 🏅Certifications</h2>
+
+-  <img src="https://img.shields.io/badge/-Certified%20AppSec%20Practitioner-%23FFA500?&style=for-the-badge&logo=security&logoColor=white" /> [Certified Appsec Practitioner (CAP)](https://drive.google.com/file/d/1i1BokEXr6PW4pxWh5vPh7bQOeBMubzSl/view) 
+
+- <img src="https://img.shields.io/badge/-Microsoft%20SC%20900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> [Microsoft SC-900 Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/0f0f1f2d-d110-4fec-9293-dc5c8701a603/public_url) 
+
+- <img src="https://img.shields.io/badge/-Microsoft%20Azure%20900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> [Microsoft AZ-900 Certified: Azure Fundamentals](https://credly.com/badges/ebeb7c04-db3c-4161-8906-345fc959e70c/twitter) 
+
+- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> [CompTIA Security + 701 Certified (Processing)](LABURL) 
+
+
 
 
 
