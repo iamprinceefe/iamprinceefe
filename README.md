@@ -1,7 +1,6 @@
 <h1>❤️ Hi there, I'm Prince!  <br/><a
  <h2>👨🏾‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
-<a href="https://www.linkedin.com/in/prince-oruma-a0a724277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://x.com/theprinceefe"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://medium.com/@princeefeofficial"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white&background=ffffff" /></a>
-
+<a href="https://www.linkedin.com/in/prince-oruma-a0a724277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://x.com/theprinceefe"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://medium.com/@princeefeofficial"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white&background=ffffff" /></a> <a href="https://youtube.com/@iamprinceefe?si=h87na8PPwrTdqZI4"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 
 
