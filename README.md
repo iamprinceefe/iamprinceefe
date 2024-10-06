@@ -65,7 +65,7 @@
 
 - <img src="https://img.shields.io/badge/-Microsoft%20Azure%20900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> [Microsoft AZ-900 Certified: Azure Fundamentals](https://credly.com/badges/ebeb7c04-db3c-4161-8906-345fc959e70c/twitter) 
 
-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> [CompTIA Security + 701 Certified (Processing)](LABURL) 
+- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> [CompTIA Security + 701 Certified](LABURL) 
 
 
 
