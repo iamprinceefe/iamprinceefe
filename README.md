@@ -33,6 +33,7 @@
 
 <h2>🖥 Projects</h2>
 
+- [Cyber Threat Intelligence: (SOC Alert Analysis Part 1) ](LABURL)
 - [Active Directory Domain Setup](https://github.com/iamprinceefe/Active-Directory-Domain-Setup/blob/main/README.md)
 - [Elastic SIEM Lab: (Security Information and Event Management with Elastic Stack) ](https://github.com/iamprinceefe/Elastic-SIEM-LAB/blob/main/README.md)
 - [Phishing Attack Simulation (With Gophish)](https://github.com/iamprinceefe/Phishing-Attack-Simulation)
