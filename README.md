@@ -21,11 +21,12 @@
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-0072C6?style=for-the-badge&logo=virus-total&logoColor=white" />
+
 
 
 </div>
@@ -33,7 +34,7 @@
 
 <h2>🖥 Projects</h2>
 
-- [Cyber Threat Intelligence: (SOC Alert Analysis Part 1) ](LABURL)
+- [Cyber Threat Intelligence: (SOC Alert Analysis Part 1) ](https://github.com/iamprinceefe/SOC-Alert-Analysis/blob/main/README.md)
 - [Active Directory Domain Setup](https://github.com/iamprinceefe/Active-Directory-Domain-Setup/blob/main/README.md)
 - [Elastic SIEM Lab: (Security Information and Event Management with Elastic Stack) ](https://github.com/iamprinceefe/Elastic-SIEM-LAB/blob/main/README.md)
 - [Phishing Attack Simulation (With Gophish)](https://github.com/iamprinceefe/Phishing-Attack-Simulation)
