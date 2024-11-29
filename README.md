@@ -34,7 +34,7 @@
 
 <h2>🖥 Projects</h2>
 
-- [30 Days Of Bash Script](LABURL)
+- [30 Days Of Bash Script](https://github.com/iamprinceefe/30DaysOfBashScript)
 - [CYBLACK Vulnerability Management Task: (Credentialed Vulnerability Scan/Web Application Scan) ](https://github.com/iamprinceefe/CYBLACK-Vulnerability-Management/blob/main/README.md)
 - [CYBLACK Cyber Threat Intelligence: (Shamoon Malware Incident Report)](https://drive.google.com/drive/folders/1-49Doq_KuMtM1tJsmTKqSzqCVnB8ADMz)
 - [CYBLACK Cyber Threat Intelligence: (SOC Alert Analysis) ](https://github.com/iamprinceefe/SOC-Alert-Analysis/blob/main/README.md)
