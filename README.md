@@ -1,31 +1,42 @@
-<h1>❤️ Hi there, I'm Prince!  <br/><a
- <h2>👨🏾‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
-<a href="https://www.linkedin.com/in/prince-oruma-a0a724277/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://x.com/theprinceefe"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://medium.com/@princeefeofficial"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white&background=ffffff" /></a> <a href="https://youtube.com/@iamprinceefe?si=h87na8PPwrTdqZI4"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<h1>❤️ Hi there, I'm Prince!</h1>
 
+<h2>👨🏾‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
 
-
+<a href="https://www.linkedin.com/in/prince-oruma-a0a724277/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<a href="https://x.com/theprinceefe">
+  <img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" />
+</a>  
+<a href="https://medium.com/@princeefeofficial">
+  <img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white&background=ffffff" />
+</a>  
+<a href="https://youtube.com/@iamprinceefe?si=h87na8PPwrTdqZI4">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 <h2>💻 Tools</h2>
 
-
 <div>
-    <img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-ADD8E6?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-F7A800?&style=for-the-badge&logo=burp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-D00000?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C9F?&style=for-the-badge&logo=kali&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6600?&style=for-the-badge&logo=OWASP&logoColor=white" / 
+  <img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-ADD8E6?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-F7A800?&style=for-the-badge&logo=burp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-D00000?&style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C9F?&style=for-the-badge&logo=kali&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6600?&style=for-the-badge&logo=OWASP&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/-VirusTotal-0072C6?style=for-the-badge&logo=virus-total&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirusTotal-0072C6?style=for-the-badge&logo=virus-total&logoColor=white" />
+</div>
+
 
 
 
