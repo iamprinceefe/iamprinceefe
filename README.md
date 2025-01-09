@@ -17,24 +17,40 @@
 
 <h2>💻 Tools</h2>
 
-<div>
-  <img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-ADD8E6?&style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-F7A800?&style=for-the-badge&logo=burp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-D00000?&style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C9F?&style=for-the-badge&logo=kali&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6600?&style=for-the-badge&logo=OWASP&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VirusTotal-0072C6?style=for-the-badge&logo=virus-total&logoColor=white" />
+<div><img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-ADD8E6?&style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-F7A800?&style=for-the-badge&logo=burp&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-D00000?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C9F?&style=for-the-badge&logo=kali&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6600?&style=for-the-badge&logo=OWASP&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-0072C6?&style=for-the-badge&logo=virus-total&logoColor=white" />
+<!-- Static Malware Analysis Tools -->
+<img src="https://img.shields.io/badge/-IDA%20Pro-1E1E1E?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ghidra-2D2926?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Radare2-55D3D1?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Binwalk-0066CC?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-PEStudio-4B0082?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Yara-F4A300?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Strings-4D9DFF?&style=for-the-badge&logo=security&logoColor=white" />
+<!-- Dynamic Malware Analysis Tools -->
+<img src="https://img.shields.io/badge/-Cuckoo%20Sandbox-4F8A8B?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Remnux-008080?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Procmon-00B0B9?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-FireEye%20Helix-1D1D1B?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sandboxie-D47D7F?&style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Any.run-F04F27?&style=for-the-badge&logo=security&logoColor=white" />
+
 </div>
 
 
