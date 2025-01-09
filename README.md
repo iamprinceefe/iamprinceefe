@@ -65,7 +65,7 @@
 
 <h2>🖥 Projects</h2>
 
-- [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/https://github.com/iamprinceefe/SPLUNK-LOG-Analysis/blob/main/README.md)
+- [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/CYBLACK-Vulnerability-Management/blob/main/README.md)
 - [30 Days Of Bash Script](https://github.com/iamprinceefe/30DaysOfBashScript)
 - [Static and Dynamic Analysis ](https://drive.google.com/drive/folders/1-7Ej5cSwSuVCc8tIcoXZPQi0EQOGiYWy)
 - [Vulnerability Management Task: (Credentialed Vulnerability Scan/Web Application Scan) ](https://github.com/iamprinceefe/CYBLACK-Vulnerability-Management/blob/main/README.md)
