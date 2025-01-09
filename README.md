@@ -65,11 +65,12 @@
 
 <h2>🖥 Projects</h2>
 
+- [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/LABURL)
 - [30 Days Of Bash Script](https://github.com/iamprinceefe/30DaysOfBashScript)
-- [CYBLACK Static and Dynamic Analysis ](https://drive.google.com/drive/folders/1-7Ej5cSwSuVCc8tIcoXZPQi0EQOGiYWy)
-- [CYBLACK Vulnerability Management Task: (Credentialed Vulnerability Scan/Web Application Scan) ](https://github.com/iamprinceefe/CYBLACK-Vulnerability-Management/blob/main/README.md)
-- [CYBLACK Cyber Threat Intelligence: (Shamoon Malware Incident Report)](https://drive.google.com/drive/folders/1-49Doq_KuMtM1tJsmTKqSzqCVnB8ADMz)
-- [CYBLACK Cyber Threat Intelligence: (SOC Alert Analysis) ](https://github.com/iamprinceefe/SOC-Alert-Analysis/blob/main/README.md)
+- [Static and Dynamic Analysis ](https://drive.google.com/drive/folders/1-7Ej5cSwSuVCc8tIcoXZPQi0EQOGiYWy)
+- [Vulnerability Management Task: (Credentialed Vulnerability Scan/Web Application Scan) ](https://github.com/iamprinceefe/CYBLACK-Vulnerability-Management/blob/main/README.md)
+- [Cyber Threat Intelligence: (Shamoon Malware Incident Report)](https://drive.google.com/drive/folders/1-49Doq_KuMtM1tJsmTKqSzqCVnB8ADMz)
+- [Cyber Threat Intelligence: (SOC Alert Analysis) ](https://github.com/iamprinceefe/SOC-Alert-Analysis/blob/main/README.md)
 - [Active Directory Domain Setup](https://github.com/iamprinceefe/Active-Directory-Domain-Setup/blob/main/README.md)
 - [Elastic SIEM Lab: (Security Information and Event Management with Elastic Stack) ](https://github.com/iamprinceefe/Elastic-SIEM-LAB/blob/main/README.md)
 - [Phishing Attack Simulation (With Gophish)](https://github.com/iamprinceefe/Phishing-Attack-Simulation)
