@@ -62,6 +62,8 @@
 
 - [IDS/IPS Signature Database](https://github.com/iamprinceefe/IDS-IPS-Signature-Database)
 
+- [Writing YARA Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
+
 
 <h2>🖥 Projects</h2>
 
