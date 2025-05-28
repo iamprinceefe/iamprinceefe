@@ -67,6 +67,7 @@
 
 <h2>🖥 Projects</h2>
 
+- [NexScan Vulnerability-Scanning Tool:](URL)
 - [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/SPLUNK-LOG-Analysis)
 - [30 Days Of Bash Script](https://github.com/iamprinceefe/30DaysOfBashScript)
 - [Static and Dynamic Analysis ](https://drive.google.com/drive/folders/1-7Ej5cSwSuVCc8tIcoXZPQi0EQOGiYWy)
