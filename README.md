@@ -1,6 +1,6 @@
 <h1>❤️ Hi there, I'm Prince!</h1>
 
-<h2>👨🏾‍💻 Here are my Cybersecurity Projects that demonstrate my skills and experience in various areas:</h2>
+<h2>👨🏾‍💻 Here are my Projects that demonstrate my skills and experience in various areas:</h2>
 
 <a href="https://www.linkedin.com/in/prince-oruma-a0a724277/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -67,7 +67,7 @@
 
 <h2>🖥 Projects</h2>
 
-- [NexScan Vulnerability-Scanning Tool:](URL)
+- [NexScan Vulnerability-Scanning Tool:](https://github.com/iamprinceefe/Nexora-Vulnerability-ScannerL)
 - [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/SPLUNK-LOG-Analysis)
 - [30 Days Of Bash Script](https://github.com/iamprinceefe/30DaysOfBashScript)
 - [Static and Dynamic Analysis ](https://drive.google.com/drive/folders/1-7Ej5cSwSuVCc8tIcoXZPQi0EQOGiYWy)
