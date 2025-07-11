@@ -67,6 +67,7 @@
 
 <h2>🖥 Projects</h2>
 
+- [VulnX Vulnerability-Scanning Tool](LabURL)
 - [NexScan Vulnerability-Scanning Tool](https://github.com/iamprinceefe/Nexora-Vulnerability-Scanner)
 - [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/SPLUNK-LOG-Analysis)
 - [30 Days Of Bash Script](https://github.com/iamprinceefe/30DaysOfBashScript)
