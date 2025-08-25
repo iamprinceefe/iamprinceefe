@@ -65,8 +65,7 @@
 - [Writing YARA Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
 
 
-<h2>🖥 Projects</h2>
-<h2> NOTE: (If you can't access any project, it's because it is still in progress, so I made it private)
+<h2>🖥 Projects</h2> NOTE: (If you can't access any project, it's because it is still in progress, so I made it private)
 
 
 - [Health-Tech Cancer Project](https://github.com/iamprinceefe/HealthTech-Cancer-Project)
