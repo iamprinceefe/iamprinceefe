@@ -67,6 +67,7 @@
 
 <h2>🖥 Projects</h2>
 
+- [Health-Tech Cancer Project](LABURL)
 - [VulnX Vulnerability-Scanning Tool](https://github.com/iamprinceefe/VulnX-Scanner)
 - [NexScan Vulnerability-Scanning Tool](https://github.com/iamprinceefe/Nexora-Vulnerability-Scanner)
 - [SPLUNK: (LOG Analysis)](https://github.com/iamprinceefe/SPLUNK-LOG-Analysis)
