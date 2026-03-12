@@ -1,6 +1,6 @@
 <h1>❤️ Hi there, I'm Prince!</h1>
 
-<h2>👨🏾‍💻 Here are my Projects that demonstrate my skills and experience in various areas:</h2>
+<h2>👨🏾‍💻 Some projects have worked on:</h2>
 
 <a href="https://www.linkedin.com/in/prince-oruma-a0a724277/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
