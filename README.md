@@ -65,7 +65,7 @@
 - [Writing YARA Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
 
 
-<h2>🖥 Projects</h2> DISCLAIMER: Some Projects have been made PRIVATE for SECURITY purpose.
+<h2>🖥 Projects</h2> DISCLAIMER: Some projects have been made private for security purposes. As a result, you'll see a 404 error saying "This is not the web page you are looking for" when attempting to access them.
 
 
 - [CORTEZ-Ai SOC Analyst](URL)
