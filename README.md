@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<h2>💻 Tools</h2>
+<h2>💻 Cybersecurity Tools</h2>
 
 <div><img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
