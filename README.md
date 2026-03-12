@@ -68,7 +68,7 @@
 <h2>🖥 Projects</h2> DISCLAIMER: Some projects have been made private for security purposes. As a result, you'll see a 404 error saying "This is not the web page you are looking for" when attempting to access them.
 
 
-- [CORTEZ-Ai SOC Analyst](URL)
+- [Ai SOC Analyst](https://github.com/iamprinceefe/Ai-SOC-Agent)
 - [TryVerse Ai-Virtual TryOn](https://github.com/iamprinceefe/tryverse-ai-virtual-fashion)
 - [ClickBox Official Website](https://github.com/iamprinceefe/clickbox-shield-guard)
 - [Health-Tech Cancer Project](https://github.com/iamprinceefe/HealthTech-Cancer-Project)
