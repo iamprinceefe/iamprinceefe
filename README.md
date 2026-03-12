@@ -68,7 +68,7 @@
 <h2>🖥 Projects</h2> NOTE: (If you can't access any project, it's because it is still in progress, so I made it private)
 
 - [CORTEZ-Ai SOC Analyst](URL)
-- [TryVerse Ai-Virtual TryOn](URL)
+- [TryVerse Ai-Virtual TryOn](https://github.com/iamprinceefe/tryverse-ai-virtual-fashion)
 - [ClickBox Official Website](https://github.com/iamprinceefe/clickbox-shield-guard)
 - [Health-Tech Cancer Project](https://github.com/iamprinceefe/HealthTech-Cancer-Project)
 - [VulnX Vulnerability-Scanning Tool](https://github.com/iamprinceefe/VulnX-Scanner)
