@@ -69,7 +69,7 @@
 
 - [CORTEZ-Ai SOC Analyst](URL)
 - [TryVerse Ai-Virtual TryOn](URL)
-- [ClickBox Official Website](URL)
+- [ClickBox Official Website](https://github.com/iamprinceefe/clickbox-shield-guard)
 - [Health-Tech Cancer Project](https://github.com/iamprinceefe/HealthTech-Cancer-Project)
 - [VulnX Vulnerability-Scanning Tool](https://github.com/iamprinceefe/VulnX-Scanner)
 - [NexScan Vulnerability-Scanning Tool](https://github.com/iamprinceefe/Nexora-Vulnerability-Scanner)
