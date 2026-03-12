@@ -65,7 +65,8 @@
 - [Writing YARA Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
 
 
-<h2>🖥 Projects</h2> NOTE: (If you can't access any project, it's because it is still in progress, so I made it private)
+<h2>🖥 Projects</h2> DISCLAIMER: Some Projects have been made PRIVATE for SECURITY purpose.
+
 
 - [CORTEZ-Ai SOC Analyst](URL)
 - [TryVerse Ai-Virtual TryOn](https://github.com/iamprinceefe/tryverse-ai-virtual-fashion)
