@@ -69,7 +69,7 @@
 
 
 - [Ai SOC Analyst](https://github.com/iamprinceefe/Ai-SOC-Agent)
-- [TryVerse Ai-Virtual TryOn](https://github.com/iamprinceefe/TryVerse-Ai)
+- [TryVerse Ai-Virtual TryOn](https://github.com/iamprinceefe/tryverse-ai-project)
 - [ClickBox Official Website](https://github.com/iamprinceefe/clickbox-shield-guard)
 - [Health-Tech Cancer Project](https://github.com/iamprinceefe/HealthTech-Cancer-Project)
 - [VulnX Vulnerability-Scanning Tool](https://github.com/iamprinceefe/VulnX-Scanner)
